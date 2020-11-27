@@ -1,0 +1,10 @@
+Ever forget the basic HTML format?
+Then here's the basic HTML format for beginners.
+
+<!doctype html >
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
