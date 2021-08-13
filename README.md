@@ -1,4 +1,4 @@
 # Hello-world
-This is a repository where useful things can be stored for example education files and more
+This is a repository where useful things may be stored. 
 
-I'm a person who  wants to learn a lot about programing and take it as a hoppy and have fun while doing it.
+I'm a someone who  wants to learn a lot about programing and take it as a hobbie, and have fun while doing it.
