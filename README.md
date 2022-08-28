@@ -1,4 +1,4 @@
 # USED FOR ACADEMIC USES
-This is a repository where one may discover useful academic resources from a CAIE student.
+This is a repository where one may discover useful academic resources from a CAIE student. Mainly used for transferring documents from printing. 
 
 Thank you
