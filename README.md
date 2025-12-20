@@ -4,6 +4,6 @@
 
 
 # hello humanity 🐦‍⬛
-I use this repo, along with my GitHub profile, for light development work. I sorta like creating stuff, but I'm more of a writer than a coder. Coding is just there to break those stupid AI models. Also, cause I am evil, *MUWHAHAHAHA*!
+I use this repo, along with my GitHub profile, for light development work. I sorta like creating stuff, but I'm more of an artist than a coder. Coding is just there to break those stupid AI models. Also, cause I am evil, *MUWHAHAHAHA*!
 
 
